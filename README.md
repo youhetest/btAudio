@@ -1,3 +1,5 @@
+# esp32 pcm5102A Audio
+
 # Bluetooth Audio for Arduino
 The code exposes the A2DP profile (Bluetooth Audio) available in ESP32 boards using the Arduino interface. It assumes you have installed the [ESP32 core](https://github.com/espressif/arduino-esp32) for Arduino and have an ESP32 board. I quite like the [TinyPico](https://www.tinypico.com/) because it's so powerful and so tiny! I also like the [ESP32-PICO-KIT](https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-PICO-KIT?qs=MLItCLRbWsyoLrlknFRqcQ%3D%3D&vip=1&gclid=EAIaIQobChMImN2EgKTG6QIVWbvVCh0zcAPBEAQYASABEgK0kfD_BwE) because it's so powerful and cheap. Both have the same chips (i think) but the TinyPico is way smaller. 
 
